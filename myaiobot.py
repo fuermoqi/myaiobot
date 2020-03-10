@@ -84,4 +84,4 @@ async def on_message(message):
         await message.channel.send(embed=embed)
 
 
-client.run('Njc4Nzg3MTM4NTUyMjAxMjI2.XmdAYg._ZlC_KRlpbw5eo3oyu2r9yZEipk')## put your bot token
+client.run('')## put your bot token
